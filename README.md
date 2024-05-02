@@ -1,7 +1,7 @@
 # SankalpaHettiarachchi
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/linkedin.com/in/sankalpa-hettiarachchi-130867231/)
-[![Google](https://img.shields.io/badge/-Google-blue?style=flat&logo=Google&logoColor=white)](http://linkedin.com/in/sankalpa-hettiarachchi-130867231)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sankalpa-hettiarachchi-130867231/)
+[![Google](https://img.shields.io/badge/-Google-blue?style=flat&logo=Google&logoColor=white)](https://g.dev/SankalpaHettiarachchi)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sankalpa.isurukala17@gmail.com)
 
 -  Skilled full-stack developer proficient in the Laravel PHP framework with a solid foundation in 
