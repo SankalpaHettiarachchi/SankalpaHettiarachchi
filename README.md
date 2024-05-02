@@ -1,4 +1,4 @@
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+(https://github.com/SankalpaHettiarachchi/readme/blob/main/readme_cover.png)
 
 # SankalpaHettiarachchi
 
