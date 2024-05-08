@@ -19,6 +19,7 @@
 - Critical Thinking
 
 ### Example Projects
+<img src='https://github.com/SankalpaHettiarachchi/readme/blob/main/amc.jpg' width='256'>
 <img src='https://github.com/SankalpaHettiarachchi/readme/blob/main/Elite.gif' width='256'>
 
 ### ⚙️ Tech Stack
