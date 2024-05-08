@@ -28,9 +28,10 @@
 
 
 #### ROST Web Application(University Project)
-<img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/rost/1.PNG" width="20%"></img>
-<img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/rost/2.PNG" width="20%"></img>
-<img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/rost/3.PNG" width="20%"></img>
+
+<a href='https://github.com/SankalpaHettiarachchi/Rost-Website'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/rost/1.PNG" width="20%"></img></a>
+<a href='https://github.com/SankalpaHettiarachchi/Rost-Website'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/rost/2.PNG" width="20%"></img></a>
+<a href='https://github.com/SankalpaHettiarachchi/Rost-Website'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/rost/3.PNG" width="20%"></img></a>
 
 #### Other Web Projects(Bussiness Profiles)
 <a href='https://eliteglobedu.com/'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/other/eliteSS.PNG" width="20%"></img></a>
