@@ -20,7 +20,7 @@
 
 ### Example Projects
 <div>
-    <img src='https://github.com/SankalpaHettiarachchi/readme/blob/main/amc.jpg' width='50%'>
+    <img src='https://github.com/SankalpaHettiarachchi/readme/blob/main/amc.jpg' width='45%'>
     <img src='https://github.com/SankalpaHettiarachchi/readme/blob/main/Elite.gif' width='50%'>
 </div>
 ### ⚙️ Tech Stack
