@@ -18,13 +18,13 @@
 - Team Work
 - Critical Thinking
 
-### Example Projects
+### Projects
 
 #### AMC Clinical Guide
-<img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/1.png" href='https://raffaalfursanfoodandbeverages.com/' width="20%"></img>
-<img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/2.png" width="20%"></img>
-<img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/3.png" width="20%"></img>
-<img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/4.png" width="20%"></img>
+<img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/1.png" href='https://amcclinicalguide.com.au/' width="20%"></img>
+<img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/2.png" href='https://amcclinicalguide.com.au/' width="20%"></img>
+<img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/3.png" href='https://amcclinicalguide.com.au/' width="20%"></img>
+<img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/4.png" href='https://amcclinicalguide.com.au/' width="20%"></img>
 
 #### ROST Web Application(University Project)
 <img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/rost/1.PNG" width="20%"></img>
