@@ -26,7 +26,7 @@
 <img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/3.png" width="20%"></img>
 <img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/4.png" width="20%"></img>
 
-#### Elite Global Education
+#### ROST Web Application(University Project)
 <img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/rost/1.png" width="20%"></img>
 <img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/rost/2.png" width="20%"></img>
 <img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/rost/3.png" width="20%"></img>
