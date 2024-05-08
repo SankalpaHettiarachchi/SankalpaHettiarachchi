@@ -35,7 +35,7 @@
 <img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/other/eliteSS.PNG" width="20%"></img>
 <img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/other/CTTravelsSS.PNG" width="20%"></img>
 <img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/other/CushyKSS.PNG" width="20%"></img>
-<img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/other/raffalSS.PNG" width="20%"> <a href='https://raffaalfursanfoodandbeverages.com/'> Go </a> </img>
+<a href='https://raffaalfursanfoodandbeverages.com/'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/other/raffalSS.PNG" width="20%"></img></a>
 
 ### ⚙️ Tech Stack
 
