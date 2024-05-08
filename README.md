@@ -21,7 +21,7 @@
 ### Example Projects
 
 #### AMC Clinical Guide
-<img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/1.png" width="20%"></img>
+<img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/1.png" href='https://raffaalfursanfoodandbeverages.com/' width="20%"></img>
 <img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/2.png" width="20%"></img>
 <img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/3.png" width="20%"></img>
 <img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/4.png" width="20%"></img>
@@ -35,7 +35,7 @@
 <img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/other/eliteSS.PNG" width="20%"></img>
 <img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/other/CTTravelsSS.PNG" width="20%"></img>
 <img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/other/CushyKSS.PNG" width="20%"></img>
-<img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/other/raffalSS.PNG" width="20%"></img>
+<img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/other/raffalSS.PNG" href='https://raffaalfursanfoodandbeverages.com/' width="20%"></img>
 
 ### ⚙️ Tech Stack
 
