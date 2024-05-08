@@ -32,7 +32,7 @@
 <img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/rost/3.PNG" width="20%"></img>
 
 #### Other Web Projects(Bussiness Profiles)
-<a href='https://eliteglobedu.com/'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/other/eliteSS.PNG" width="20%"></img></a>
+<a href='https://eliteglobedu.com/' target='_blank'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/other/eliteSS.PNG" width="20%"></img></a>
 <a href='https://cttravelsandtours.com/'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/other/CTTravelsSS.PNG" width="20%"></img></a>
 <a href='https://cushyk.com.au/'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/other/CushyKSS.PNG" width="20%"></img></a>
 <a href='https://raffaalfursanfoodandbeverages.com/'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/other/raffalSS.PNG" width="20%"></img></a>
