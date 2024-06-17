@@ -21,20 +21,7 @@
 <td width="50%" align="center">
 
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-      />
-      <img
-        alt="github contribution grid snake animation"
-        src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-      />
-    </picture>
+
   </td>
 </tr>
 </table>
@@ -45,13 +32,14 @@
 <p align="center">
 <table align="center">
 <tr border="none">
-  <td width="50%" align="center">
+  <td>
   
-    
+  <img src="https://myreadme.vercel.app/api/embed/SankalpaHettiarachchi?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
     
   </td>
 </tr>
 </table>
+</p>
 
 ---
 
