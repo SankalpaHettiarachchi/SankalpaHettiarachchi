@@ -53,18 +53,26 @@
 
 ---
 
-<h3 align="center">Languages, Frameworks and Tools</h3>
+<h3 align="center">Skills</h3>
 <p align="center"> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/PHP-Light.svg" alt="php" width="50" height="50"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/JQuery.svg" alt="Jquery" width="50" height="50"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/SQLite.svg" alt="sqlight" width="50" height="50"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/Laravel-Light.svg" alt="laravel" width="50" height="50"/></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/VSCode-Light.svg" alt="vscode" width="50" height="50"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/Git.svg" alt="git" width="50" height="50"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/Postman.svg" alt="postman" width="50" height="50"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/Docker.svg" alt="Docker" width="50" height="50"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/GraphQL-Light.svg" alt="GraphQL" width="50" height="50"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/GCP-Light.svg" alt="GraphQL" width="50" height="50"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/Arduino.svg" alt="Arduino" width="50" height="50"/></a>
 </p>
 
 ---
