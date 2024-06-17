@@ -1,7 +1,12 @@
+<p align="center">
+   <img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px><br>
+   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Full_Stack_Developer;Laravel_Developer;BICT[hons]_Undergraduate"></a>
+</p>
 
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Sankalpa Hettiarachchi</h1>
-<h3 align="center">Full-Stack Developer | Exploring the Boundless World of Software Engineering</h3>
+<p align="center">Exploring the Boundless World of Software Engineering<p>
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <table align="center">
 <tr border="none">
@@ -51,7 +56,7 @@
   <a href="https://stackoverflow.com/users/16690365/sankalpa-isurukala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sankalpa-hettiarachchi" height="50" width="50" /></a>
 </p>
 
----
+
 
 <h3 align="center">Skills</h3>
 <p align="center"> 
@@ -75,66 +80,22 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/Arduino.svg" alt="Arduino" width="50" height="50"/></a>
 </p>
 
----
-
-<h3 align="center">Support</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/scar2001"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-
-
-
-
-
-
-
-
-
-
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-# SankalpaHettiarachchi
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sankalpa-hettiarachchi-130867231/)
-[![Google](https://img.shields.io/badge/-Google-blue?style=flat&logo=Google&logoColor=white)](https://g.dev/SankalpaHettiarachchi)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sankalpa.isurukala17@gmail.com)
+# About me
 
 -  Skilled full-stack developer proficient in the Laravel PHP framework with a solid foundation in 
     software engineering principles, particularly MVC architecture.
 -  Adept at staying updated on emerging trends and technologies in software development. 
 -  I’m currently reading BICT(hons) at Rajarata University of Sri Lanka 
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
-<img src="https://myreadme.vercel.app/api/embed/SankalpaHettiarachchi?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+### Soft Skills
 
-### 🖥 Skills
-
-- Programming
 - Problem Solving
-- Team Work
-- Critical Thinking
+- Team Collaboration
+- Effective Communication
 
 ### Projects
 
@@ -157,13 +118,5 @@
 <a href='https://cushyk.com.au/'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/other/CushyKSS.PNG" width="20%"></img></a>
 <a href='https://raffaalfursanfoodandbeverages.com/'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/other/raffalSS.PNG" width="20%"></img></a>
 
-### ⚙️ Tech Stack
-
-![Bootstrap](https://img.shields.io/badge/-MVC%20-05122A?style=flat-square&logo=MVC&color=353535) ![Bootstrap](https://img.shields.io/badge/-OOP-05122A?style=flat-square&logo=OOP&color=353535) ![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=PHP&color=353535) ![Bootstrap](https://img.shields.io/badge/-Laravel-05122A?style=flat-square&logo=Laravel&color=353535) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=Bootstrap&color=353535) ![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=JavaScript&color=353535) ![Bootstrap](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS&color=353535) ![Bootstrap](https://img.shields.io/badge/-AWS-05122A?style=flat-square&logo=AWS&color=353535) ![Bootstrap](https://img.shields.io/badge/-Cpanel-05122A?style=flat-square&logo=Cpanel&color=353535) ![Bootstrap](https://img.shields.io/badge/-Google%20Cloud%20Console-05122A?style=flat-square&logo=Google-Cloud-Console&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535) ![Bootstrap](https://img.shields.io/badge/-Xampp-05122A?style=flat-square&logo=Xampp&color=353535) ![Bootstrap](https://img.shields.io/badge/-Postman-05122A?style=flat-square&logo=Postman&color=353535) ![Bootstrap](https://img.shields.io/badge/-Canva-05122A?style=flat-square&logo=Canva&color=353535)
-
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="hejazizo" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
-</div>
 
 
