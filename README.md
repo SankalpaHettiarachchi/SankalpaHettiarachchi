@@ -9,11 +9,7 @@
 -  Adept at staying updated on emerging trends and technologies in software development. 
 -  I’m currently reading BICT(hons) at Rajarata University of Sri Lanka 
 
-<div align="center">
-  <a href="https://SankalpaHettiarachchi.github.io/SankalpaHettiarachchi/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ### 🖥 Skills
 
