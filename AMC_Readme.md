@@ -7,7 +7,7 @@
     <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/amc/AMC-Logo.png" alt="Logo" width="200">
   </a>
   
-  <h3 align="center">AMC Clinical | E-Learning Web Application</h3>
+  <h3 align="center">AMC Clinical Guide | E-Learning Web Application</h3>
   <p align="center">
     <br />
     <a href='https://amcclinicalguide.com.au/'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/1.png" width="20%"></img></a>
