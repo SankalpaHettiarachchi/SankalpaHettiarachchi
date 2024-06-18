@@ -101,9 +101,9 @@
 
 #### AMC Clinical Guide
 <a href='https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/AMC_Readme.md'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/1.png" width="20%"></img></a>
-<a href='https://amcclinicalguide.com.au/'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/2.png" width="20%"></img></a>
-<a href='https://amcclinicalguide.com.au/'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/3.png" width="20%"></img></a>
-<a href='https://amcclinicalguide.com.au/'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/4.png" width="20%"></img></a>
+<a href='https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/AMC_Readme.md'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/2.png" width="20%"></img></a>
+<a href='https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/AMC_Readme.md'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/3.png" width="20%"></img></a>
+<a href='https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/AMC_Readme.md'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/4.png" width="20%"></img></a>
 
 
 #### ROST Web Application(University Project)
