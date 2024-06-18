@@ -3,18 +3,18 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://amcclinicalguide.com.au/">
+    <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/amc/AMC-Logo.png" alt="Logo" width="200">
   </a>
   
   <h3 align="center">AMC Clinical || E-Learning Web Application</h3>
-  <br>
   <p align="center">
     <br />
     <a href='https://amcclinicalguide.com.au/'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/1.png" width="20%"></img></a>
     <a href='https://amcclinicalguide.com.au/'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/2.png" width="20%"></img></a>
     <a href='https://amcclinicalguide.com.au/'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/3.png" width="20%"></img></a>
     <a href='https://amcclinicalguide.com.au/'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/4.png" width="20%"></img></a>
+    <br/>
     <br/>
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
