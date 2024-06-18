@@ -16,11 +16,11 @@
     <a href='https://amcclinicalguide.com.au/'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/4.png" width="20%"></img></a>
     <br/>
     <br/>
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://amcclinicalguide.com.au/">View Site</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
