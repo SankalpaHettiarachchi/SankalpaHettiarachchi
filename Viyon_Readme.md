@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://amcclinicalguide.com.au/">
-    <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/amc/AMC-Logo.png" alt="Logo" width="200">
+    <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/viyon/viyon-logo.png" alt="Logo" width="200">
   </a>
   
   <h3 align="center">Viyon Lanka | Admin Panel</h3>
@@ -43,9 +43,7 @@ It uses the Google Maps API to fetch location details of sales agents in real-ti
 ### Built With
 <p align="left"> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/Laravel-Light.svg" alt="laravel" width="50" height="50"/></a>
-<a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/Livewire-Light.svg" alt="livewire" width="50" height="50"/>
-</a>
+<a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/livewire-2.svg" alt="laravel" width="50" height="50"/></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/></a>
