@@ -8,10 +8,10 @@
   <h3 align="center">Viyon Lanka | Admin Panel</h3>
   <p align="center">
     <br />
-    <a href='https://amcclinicalguide.com.au/'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/1.png" width="20%"></img></a>
-    <a href='https://amcclinicalguide.com.au/'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/2.png" width="20%"></img></a>
-    <a href='https://amcclinicalguide.com.au/'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/3.png" width="20%"></img></a>
-    <a href='https://amcclinicalguide.com.au/'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/4.png" width="20%"></img></a>
+    <a href='https://amcclinicalguide.com.au/'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/viyon/1.JPG" width="20%"></img></a>
+    <a href='https://amcclinicalguide.com.au/'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/viyon/2.JPG" width="20%"></img></a>
+    <a href='https://amcclinicalguide.com.au/'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/viyon/3.JPG" width="20%"></img></a>
+    <a href='https://amcclinicalguide.com.au/'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/viyon/4.JPG" width="20%"></img></a>
     <br/>
     <br/>
     <a href="https://amcclinicalguide.com.au/">View Site</a>
@@ -25,32 +25,27 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-AMC Clinical Guide is an e-learning application that provides online lectures for candidates for the AMC Clinical Examination in Australia. Candiates can access their bought lectures for 90 days (3 months).
+Viyon Lanka is a medical product sales company that supplies doctors and pharmacies. This admin panel manages business activities, including sales tracking, agent performance, product management, and reports. It supports sales agents who use a mobile app to track their activities.
 
-### Student Functional Requirements
-* Students can register with their email as well as their Google account.
-* The student can log in using their credentials or their Google account.
-* Students can explore available and upcoming courses.
-* The user can study introductory lessons and free lessons without any payment.
-* The student can make payments through the application.
-* After the payment is approved, the student can access the course for a 3-month period.
-* The student cannot see already-bought courses.
+It uses the Google Maps API to fetch location details of sales agents in real-time. Additionally, raw SQL queries are used in critical parts of the application to improve performance and ensure faster data retrieval.
 
-### Admin Functional Requirements
-* Admin can log in with their credentials or Google account.
-* Admins can create, read, update, and delete (CRUD) their courses.
-* Admins can CRUD their lessons and particular courses.
-* Admins can add upcoming courses and lectures that they have not prepared yet.
-* Admins can control the visibility of the courses and lessons.
-* Admins can check payments and approve payments that are successfully received.
-* Admins can terminate student access.
-* Admins can remove students from the system.
-* Admin should receive email notifications about student actions (payments, registration, etc.).
-* Admins can log out.
+
+## Key Features:
+* Product Management: Admins can add, update, and manage medical products.
+* Doctor & Pharmacy Management: Maintain records of doctors and pharmacies associated with the business.
+* Sales Agent Tracking: Monitor sales agents’ activities, including their schedules and sessions.
+* Google Maps Integration: Track sales agents’ locations, visits, and routes in real-time.
+* Sales Management: Keep track of sales performance and transactions.
+* Reports & Analytics: Generate reports based on specific timeframes to analyze business growth and agent efficiency.
+* REST API Communication: The mobile application communicates with the backend via a REST API, ensuring seamless data synchronization and real-time updates.
+* This system provides a centralized platform for Viyon Lanka to manage its sales operations, ensuring better visibility and performance tracking.
 
 ### Built With
 <p align="left"> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/Laravel-Light.svg" alt="laravel" width="50" height="50"/></a>
+<a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/Livewire-Light.svg" alt="livewire" width="50" height="50"/>
+</a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/></a>
@@ -62,11 +57,7 @@ AMC Clinical Guide is an e-learning application that provides online lectures fo
 
 ### Additional Technologies
 * cPanel Hosting
-* Strip Payment Gateway
-* Google OAuth
-* Google reCAPTCHA
-* Google Analytics
-* Onpage SEO
+* Google Map API
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thank+you+for+your+attention..!"></a>  
