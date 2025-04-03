@@ -101,10 +101,10 @@
 ### Projects
 
 #### Viyon Lanka
-<a href='https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/Viyon_Readme.md'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/viyon/2.jpg" width="20%"></img></a>
-<a href='https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/Viyon_Readme.md'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/viyon/3.jpg" width="20%"></img></a>
-<a href='https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/Viyon_Readme.md'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/viyon/1.jpg" width="20%"></img></a>
-<a href='https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/Viyon_Readme.md'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/viyon/4.jpg" width="20%"></img></a>
+<a href='https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/Viyon_Readme.md'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/viyon/2.JPG" width="20%"></img></a>
+<a href='https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/Viyon_Readme.md'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/viyon/3.JPG" width="20%"></img></a>
+<a href='https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/Viyon_Readme.md'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/viyon/1.JPG" width="20%"></img></a>
+<a href='https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/Viyon_Readme.md'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/viyon/4.JPG" width="20%"></img></a>
 
 #### AMC Clinical Guide
 <a href='https://github.com/SankalpaHettiarachchi/SankalpaHettiarachchi/blob/main/AMC_Readme.md'><img src="https://github.com/SankalpaHettiarachchi/readme/blob/main/amc/1.png" width="20%"></img></a>
